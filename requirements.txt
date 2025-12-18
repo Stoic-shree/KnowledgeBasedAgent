@@ -1,6 +1,11 @@
 streamlit
 google-generativeai
 python-dotenv
+<<<<<<< HEAD
+=======
+langchain
+langchain-text-splitters
+>>>>>>> ef71819b4591533a5b08412418dea3ddfe7dde4a
 PyPDF2
 faiss-cpu
 

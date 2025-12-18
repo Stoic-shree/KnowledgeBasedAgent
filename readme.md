@@ -1,4 +1,4 @@
-# Chat with PDF using OpenRouter 🤖📄
+# Knowledge Based Agent (Chat with PDF) 🤖📄
 
 An intelligent PDF question-answering system that leverages Large Language Models (LLMs) to extract insights from your documents. Upload PDFs, ask questions in natural language, and get accurate answers based on document content.
 
